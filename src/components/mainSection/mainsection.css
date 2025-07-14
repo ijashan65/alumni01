@@ -1,0 +1,7 @@
+.mainSection{
+    border: 4px solid black;
+    width:75%;
+    border-radius: 10px;
+    overflow-y: scroll;
+    background-image: linear-gradient(to bottom, rgb(41, 41, 41), rgb(17, 17, 17));
+}

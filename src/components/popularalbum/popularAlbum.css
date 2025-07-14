@@ -1,0 +1,14 @@
+.popularAlbumMainContainer{
+    color :aliceblue;
+    /* border : 2px solid red; */
+    height: 40%;
+
+}
+.popularAlbumMainContainer span{
+    font-size: 24px;
+    font-family: sans-serif;
+    color: white;
+    margin-left: 10px;
+    font-weight: 600;
+    padding: 1rem 0;
+}

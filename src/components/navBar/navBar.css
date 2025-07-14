@@ -1,0 +1,73 @@
+
+nav{
+/* border : 2px solid green; */
+height: 7% ;
+ background: rgb(0, 0, 0);
+color: azure;
+display: flex;
+
+}
+nav img{
+    width: 3%;
+    height: 90%;
+    margin-left: 17px;
+    border-radius: 80%;
+    object-fit: cover;
+}
+.searchBar {
+ margin-top: 0;
+ height: 80%;
+ border-radius: 20px;
+/* border: 2px solid red; */
+ width: 30%;
+background-color: rgb(54, 54, 54);
+
+}
+.searchBar input{
+ margin-top: 0;
+ height: 60%;
+ width: 100%;
+ background-color: rgb(54, 54, 54);
+border: transparent;
+}
+.navDescription{
+font-size: 17px;
+font-family: sans-serif;
+color: rgb(139, 132, 132);
+margin-left: 10px;
+font-weight: 600;
+margin-left: auto;
+letter-spacing: 2px;
+}
+
+.Home button{
+   height: 85%;
+   width: 60px;
+   margin-left: 30px;
+   margin-top: 0;
+   margin-right: 30px;
+   font-size: 50px;
+   color: white;
+   background-color: rgb(54, 54, 54);
+   border-radius: 50%;
+   cursor: pointer;
+   border: transparent;
+    
+
+}
+.login{
+    /* border: 2px solid red; */
+    width: 8%;
+}
+.login button{
+    height: 85%;
+    width: 100%;
+    font-size: 17px;
+    font-family: sans-serif;
+    color:black;
+    margin-left: 10px;
+    font-weight: 600;
+    border-radius: 30px;
+    cursor: pointer;
+    
+}
