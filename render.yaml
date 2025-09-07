@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: spotify-clone-ui
+    env: static
+    buildCommand: npm install && npx vite build
+    staticPublishPath: dist
+    envVars:
+      - key: NODE_VERSION
+        value: 20
