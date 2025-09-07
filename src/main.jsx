@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 // Import your pages/components
-import App from "./app.jsx";
+import App from "./App.jsx";
 import Events from "./pages/events";
 import Networking from "./pages/networking";
 import AlumniList from "./pages/alumniList";

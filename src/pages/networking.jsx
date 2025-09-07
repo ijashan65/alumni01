@@ -1,6 +1,6 @@
 import React from "react";
 import { FaUsers, FaGraduationCap, FaComments } from "react-icons/fa"; // icons
-import "./Networking.css";
+import "./networking.css";
 
 export default function Networking() {
   return (
